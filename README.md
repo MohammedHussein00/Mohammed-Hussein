@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xAgamy&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammedHussein00&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 <br/>
@@ -18,10 +18,10 @@
   <a href="http://www.linkedin.com/in/mohamed-elagamy-b6643b321">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/0xAgamy">
+  <a href="https://github.com/MohammedHussein00">
     <img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:mohamedelagamy516@gmail.com">
+  <a href="mailto:mohammed.hussein.2627@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
@@ -50,12 +50,12 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xAgamy&show_icons=true&count_private=true&hide_border=true&title_color=0077b6&icon_color=00b4d8&text_color=caf0f8&bg_color=0d1117" alt="Mohamed Elagamy's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAgamy&layout=compact&hide_border=true&title_color=0077b6&text_color=caf0f8&bg_color=0d1117" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedHussein00&show_icons=true&count_private=true&hide_border=true&title_color=0077b6&icon_color=00b4d8&text_color=caf0f8&bg_color=0d1117" alt="Mohamed Elagamy's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedHussein00&layout=compact&hide_border=true&title_color=0077b6&text_color=caf0f8&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=0xAgamy&show_icons=true&count_private=true&hide_border=true&title_color=0077b6&icon_color=00b4d8&text_color=caf0f8&bg_color=0d1117" alt="Mohamed Elagamy's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=0xAgamy&show_icons=true&count_private=true&hide_border=true&title_color=0077b6&icon_color=00b4d8&text_color=caf0f8&bg_color=0d1117" alt="Mohamed Hussein's GitHub Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAgamy&theme=tokyonight&hide_border=true&stroke=0077b6&background=0d1117&ring=0077b6&fire=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak" />
 </div>
 
@@ -69,13 +69,13 @@
 </p>
 
 <div align="center">
-  <a href="http://www.linkedin.com/in/mohamed-elagamy-b6643b321">
+  <a href="https://www.linkedin.com/in/muhammed-hussein-sophy-mustafa-597282235">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/0xAgamy">
+  <a href="https://github.com/MohammedHussein00">
     <img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:mohamedelagamy516@gmail.com">
+  <a href="mailto:mohammed.hussein.2627@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
