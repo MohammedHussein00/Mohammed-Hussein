@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=WWelcome+to+Mohamed+Elagamy's+Profile!;Passionate+Software+Engineer;.NET+Enthusiast;Problem+Solver&font=Fira%20Code&center=true&width=440&height=45&color=0077b6&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=WWelcome+to+Mohammed+Hussein's+Profile!;Passionate+Software+Engineer;.NET+Enthusiast;Problem+Solver&font=Fira%20Code&center=true&width=440&height=45&color=0077b6&vCenter=true&pause=1000&size=22" />
 </div>
 
 <div align="center">
