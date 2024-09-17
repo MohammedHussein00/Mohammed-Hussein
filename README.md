@@ -50,7 +50,7 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedHussein00&show_icons=true&count_private=true&hide_border=true&title_color=0077b6&icon_color=00b4d8&text_color=caf0f8&bg_color=0d1117" alt="Mohamed Elagamy's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedHussein00&show_icons=true&count_private=true&hide_border=true&title_color=0077b6&icon_color=00b4d8&text_color=caf0f8&bg_color=0d1117" alt="Mohammed Hussein's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedHussein00&layout=compact&hide_border=true&title_color=0077b6&text_color=caf0f8&bg_color=0d1117" alt="Top Languages" />
 </div>
 
